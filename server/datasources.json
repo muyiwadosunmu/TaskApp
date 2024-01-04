@@ -1,0 +1,8 @@
+{
+  "postgres": {
+    "host": "",
+    "url": "postgresql://dosunmuoluwamuyiwa98:0WjX9JfLgKdM@ep-soft-moon-72952514.eu-central-1.aws.neon.tech/taskdb?sslmode=require",
+    "name": "postgres",
+    "connector": "postgresql"
+  }
+}
